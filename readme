@@ -1,0 +1,7 @@
+ubyteparser:
+
+        a simple bytecode interpreter. takes a list of bytes and performs
+        actions based on their input. it uses a simple binary format called
+        ".byte", which is essentially just a list of bytes, no operations or
+        conversions performed on the original array, but rather a list of
+        instructions is formed using it.
